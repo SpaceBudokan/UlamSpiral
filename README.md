@@ -1,0 +1,2 @@
+# UlamSpiral
+UlamSpiral generator
